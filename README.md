@@ -1,2 +1,2 @@
 # Cafes
-Cafe is a mobile application based on android studio 
+Cafe is an application designed out of curiosity to design my first Mobile based application using android studio. This application shows the list of cafe's around Huntsville area (Sydney). you can select any of the cafe's name that provide you with picture of cafe, details and short menu listing. You will have two option from there either to find location of cafe clicking on get location or favourite it by clicking on favourite button
