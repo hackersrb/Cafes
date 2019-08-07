@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Cafes</string>
+    <string name="app_logo">app_logo</string>
+    <string name="edmonds_and_greer">Edmonds and Greer</string>
+    <string name="charlie">Charlie Lovett Hurstville</string>
+    <string name="gram">18 Gram Expresso</string>
+    <string name="shed">Shed Cafe Hurstville</string>
+    <string name="eatonbridge">Eatz On Bridge</string>
+    <string name="common">Common Ground Coffee and Kitchen</string>
+    <string-array name="options">
+        <item> Edmonds and Greer</item>
+        <item> Charlie Lovett Hurstville</item>
+        <item> Common Ground Coffee and Kitchen </item>
+        <item> 18 Gram Expresso</item>
+        <item> The Shed Cafe Hurstville</item>
+        <item> Eatz On Bridge</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="get_direction">Get Direction</string>
+    <string name="address_shop_1_11_17_woodville_st_hurstville_nsw">Address: shop 1/11-17 Woodville St, Hurstville NSW</string>
+    <string name="hours_opens_7_am_7_pm_mon_fri">Hours: Opens 7 AM - 7 PM Mon - Fri</string>
+    <string name="phone_02_9586_0067">Phone: (02) 9586 0067</string>
+    <string name="address_43_bridge_st_hurstville_nsw_2220">Address: 43 Bridge St, Hurstville NSW 2220</string>
+    <string name="cafe_bustling_cafe_and_gift_shop_offering_breakfast_coffee_and_cakes_plus_sandwiches_and_hearty_mains_our_menus_are_special_to_the_town_it_is_located_in_the_heart_of_hurstville">Cafe Bustling cafe and gift shop offering breakfast, coffee and cakes, plus sandwiches and hearty mains. Our menus are special to the town, it is located in the heart of hurstville</string>
+    <string name="hours_opens_6am_4_pm_mon_fri">Hours: Opens 6AM - 4 PM Mon - Fri</string>
+    <string name="hours_opens_6_30am_4_30_pm_mon_fri">Hours: Opens 6.30AM - 4.30 PM Mon - Fri</string>
+    <string name="address_121_belmore_rd_randwick_nsw_2031">Address: 121 Belmore Rd, Randwick NSW 2031</string>
+    <string name="cafe_bustling_cafe_and_gift_shop_offering_breakfast_coffee_and_cakes_plus_sandwiches_and_hearty_mains_our_menus_are_special_to_the_town_it_is_located_in_the_heart_of_randwick">Cafe Bustling cafe and gift shop offering breakfast, coffee and cakes, plus sandwiches and hearty mains. Our menus are special to the town, it is located in the heart of Randwick</string>
+    <string name="address_1_97_mulga_rd_oatley_nsw_2223">Address: 1/97 Mulga Rd, Oatley NSW 2223</string>
+    <string name="cafe_bustling_cafe_and_gift_shop_offering_breakfast_coffee_and_cakes_plus_sandwiches_and_hearty_mains">Cafe Bustling cafe and gift shop offering breakfast, coffee and cakes, plus sandwiches and hearty mains.</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
